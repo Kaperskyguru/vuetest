@@ -13,7 +13,7 @@
   <div class="footer">
   <p>&copy; <span id="data-date"></span> - All rights reserved</p>
   </div>
-  </nav>
+ </nav>
 
   <div id="content" class="p-4">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,7 +23,7 @@
   </nav>
 
 
-  <div class="row">
+  </div>
   </template>
   export default {
     created() {},
