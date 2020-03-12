@@ -1,6 +1,8 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Index from './components/Index.vue';
+import Assessment from './components/Assessment.vue';
+import Process from './components/Process.vue';
 Vue.use(VueRouter);
 
 const router = new VueRouter({
